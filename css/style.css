@@ -168,7 +168,9 @@ img {
     background-size: cover;
     background-position: 50% 50%;  
     max-width: 1440px;
-} 
+    margin-right: auto;
+    margin-left: auto;
+}
 
 .effect-sol {
     font-family: "Roboto", sans-serif;
